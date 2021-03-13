@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width="440px" height="193px" src="https://i.imgur.com/TWgTElM.png" />
+    <img width="315px" height="193px" src="https://i.imgur.com/dxtOhjM.png" />
   </a>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=atifmerghad&show_icons=true&theme=tokyonight" />
@@ -31,9 +31,6 @@
   <img src="Badges/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
   <img src="Badges/dev/tools/docker.svg" alt="Docker" style="vertical-align:top; margin:4px">
   <img src="Badges/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
-
-  <img src="Badges/dev/tools/kafka.svg" alt="Apache Kafka" style="vertical-align:top; margin:4px">
-  <img src="Badges/dev/tools/spark.svg" alt="Spark" style="vertical-align:top; margin:4px">
 
   <img src="Badges/dev/services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
 
