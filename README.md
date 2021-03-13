@@ -1,16 +1,44 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atifmerghad&show_icons=true&theme=dracula)
+<p align="center">
+  <a href="#">
+    <img width="440px" height="193px" src="https://i.imgur.com/TWgTElM.png" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=atifmerghad&show_icons=true&theme=tokyonight" />
+  </a> 
+</p>
 
-<!--
-**atifmerghad/atifmerghad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ping me
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.linkedin.com/in/atif-merghad/">
+    <img src="Badges/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://stackoverflow.com/users/9859025/atif-merghad">
+    <img src="Badges/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="mailto: atif.merghad@gmail.com">
+    <img src="Badges/social/email_me.svg" alt="Gmail" style="vertical-align:top; margin:4px">
+  </a>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I use
+
+<p align="left">
+  <img src="Badges/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+  <img src="Badges/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  <img src="Badges/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px">
+
+  <img src="Badges/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
+  <img src="Badges/dev/tools/docker.svg" alt="Docker" style="vertical-align:top; margin:4px">
+  <img src="Badges/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
+
+  <img src="Badges/dev/tools/kafka.svg" alt="Apache Kafka" style="vertical-align:top; margin:4px">
+  <img src="Badges/dev/tools/spark.svg" alt="Spark" style="vertical-align:top; margin:4px">
+
+  <img src="Badges/dev/services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
+
+</p>
+
+<p align="right">
+  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=atifmerghad&countColorcountColor&countColor=%237B1E7A">
+</p>
