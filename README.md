@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width="315px" height="193px" src="https://i.imgur.com/dxtOhjM.png" />
+    <img class="Box" width="315px" height="193px" src="https://i.imgur.com/dxtOhjM.png" />
   </a>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=atifmerghad&show_icons=true&theme=tokyonight" />
